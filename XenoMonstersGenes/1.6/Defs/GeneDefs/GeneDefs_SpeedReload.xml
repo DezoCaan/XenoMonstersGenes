@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneReloadSpeed" Abstract="True">
+		<displayCategory>XMonsters_RangedCombat</displayCategory>
+		<exclusionTags>
+			<li>xmonsters_reloadspeed</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_SlightlyFastReload</defName>
+		<label>slightly fast reload</label>
+		<labelShortAdj>slightly fast reload</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload1</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">1.25</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>2</biostatCpx>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>pistol</symbol>
+				</li>
+				<li>
+					<symbol>slightly</symbol>
+				</li>
+				<li>
+					<symbol>slightlyreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_FastReload</defName>
+		<label>fast reload</label>
+		<labelShortAdj>fast reload</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload2</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">1.50</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>2</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>shotgun</symbol>
+				</li>
+				<li>
+					<symbol>fast</symbol>
+				</li>
+				<li>
+					<symbol>fastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_VeryFastReload</defName>
+		<label>very fast reload</label>
+		<labelShortAdj>very fast reload</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload3</iconPath>
+		<displayOrderInCategory>3</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">2</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>assaultrifle</symbol>
+				</li>
+				<li>
+					<symbol>veryfast</symbol>
+				</li>
+				<li>
+					<symbol>veryfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_SuperFastReload</defName>
+		<label>super fast reload</label>
+		<labelShortAdj>super fast reload</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload4</iconPath>
+		<displayOrderInCategory>4</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">2.5</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>machinegun</symbol>
+				</li>
+				<li>
+					<symbol>superfast</symbol>
+				</li>
+				<li>
+					<symbol>superfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_UnrealFastReload</defName>
+		<label>unreal fast reload</label>
+		<labelShortAdj>unreal fast reload</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload5</iconPath>
+		<displayOrderInCategory>5</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">3</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>4</biostatCpx>
+		<biostatMet>-4</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>minigun</symbol>
+				</li>
+				<li>
+					<symbol>unrealfast</symbol>
+				</li>
+				<li>
+					<symbol>unrealfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+	</GeneDef>
+	
+</Defs>
