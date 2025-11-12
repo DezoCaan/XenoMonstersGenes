@@ -11,4 +11,4 @@ Combat Extended is also used under license.
 
 And I (Dezo The Demon of Madness) most likely won't make any mods anymore.
 
-Rimworld is owned by Tynan Sylvester
+Rimworld is owned by Tynan Sylvester.
