@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_SlightlyFastReload.label>немного быстрая перезарядка</XMonsters_SlightlyFastReload.label>
+	<XMonsters_SlightlyFastReload.description>Без Описания.</XMonsters_SlightlyFastReload.description>
+	
+	<XMonsters_FastReload.label>быстрая перезарядка</XMonsters_FastReload.label>
+	<XMonsters_FastReload.description>Без Описания.</XMonsters_FastReload.description>
+	
+	<XMonsters_VeryFastReload.label>очень быстрая перезарядка</XMonsters_VeryFastReload.label>
+	<XMonsters_VeryFastReload.description>Без Описания.</XMonsters_VeryFastReload.description>
+	
+	<XMonsters_SuperFastReload.label>супер быстрая перезарядка</XMonsters_SuperFastReload.label>
+	<XMonsters_SuperFastReload.description>Без Описания.</XMonsters_SuperFastReload.description>
+	
+	<XMonsters_UnrealFastReload.label>нереально быстрая перезарядка</XMonsters_UnrealFastReload.label>
+	<XMonsters_UnrealFastReload.description>Без Описания.</XMonsters_UnrealFastReload.description>
+	
+</LanguageData>

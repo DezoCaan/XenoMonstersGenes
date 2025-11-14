@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneCategoryDef>
+		<defName>XMonsters_Cosmetics</defName>
+		<label>xenomonsters - cosmetics</label>
+		<displayPriorityInXenotype>-1</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Skin</defName>
+		<label>xenomonsters - skin</label>
+		<displayPriorityInXenotype>-2</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_SkinColor</defName>
+		<label>xenomonsters - skin color</label>
+		<displayPriorityInXenotype>-3</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Stamina</defName>
+		<label>xenomonsters - stamina</label>
+		<displayPriorityInXenotype>-4</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Movement</defName>
+		<label>xenomonsters - movement</label>
+		<displayPriorityInXenotype>-5</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Health</defName>
+		<label>xenomonsters - health</label>
+		<displayPriorityInXenotype>-6</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_RangedCombat</defName>
+		<label>xenomonsters - ranged combat</label>
+		<displayPriorityInXenotype>-7</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_MeleeCombat</defName>
+		<label>xenomonsters - melee combat</label>
+		<displayPriorityInXenotype>-8</displayPriorityInXenotype>
+	</GeneCategoryDef>
+
+</Defs>
