@@ -9,6 +9,8 @@ In turn, the Combat Extended mod is a continuation and expansion of its original
 Combat Extended is also used under license.
 >Link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-And I (Dezo The Demon of Madness) most likely won't make any mods anymore.
 
+
+Harmony by Brrainz.
+Vanilla Expanded Framework by Oskar Potocki.
 Rimworld is owned by Tynan Sylvester.
