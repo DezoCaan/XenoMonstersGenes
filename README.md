@@ -2,7 +2,8 @@
 
   
 
-  An unsuccessful attempt to create my own mod for RimWorld.
+  An unsuccessful attempt to create my own mod for RimWorld.  
+  Whether I will continue this mod or not is up to fate to decide.
 
   
 
