@@ -1,4 +1,5 @@
   # XenoMonstersGenes
+  
 ---
 
   An unsuccessful attempt to create my own mod for RimWorld.
@@ -13,6 +14,6 @@
   >Link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ---
 
-  |Harmony by Brrainz.
-  |Vanilla Expanded Framework by Oskar Potocki.
-  |Rimworld is owned by Tynan Sylvester.
+    Harmony by Brrainz.
+    Vanilla Expanded Framework by Oskar Potocki.
+    Rimworld is owned by Tynan Sylvester.
