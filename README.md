@@ -14,6 +14,6 @@
 
     
 
-  Harmony by Brrainz.
-  Vanilla Expanded Framework by Oskar Potocki.
-  Rimworld is owned by Tynan Sylvester.
+  Harmony by Brrainz.  
+  Vanilla Expanded Framework by Oskar Potocki.  
+  Rimworld is owned by Tynan Sylvester.  
