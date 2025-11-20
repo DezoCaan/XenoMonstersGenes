@@ -1,5 +1,8 @@
   # XenoMonstersGenes
+---
+
   An unsuccessful attempt to create my own mod for RimWorld.
+  
 ---
   This mod uses some assets from another mod called Combat Extended.
 
@@ -9,6 +12,7 @@
   Combat Extended is also used under license.
   >Link: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ---
-  ||Harmony by Brrainz.
-  ||Vanilla Expanded Framework by Oskar Potocki.
-  ||Rimworld is owned by Tynan Sylvester.
+
+  |Harmony by Brrainz.
+  |Vanilla Expanded Framework by Oskar Potocki.
+  |Rimworld is owned by Tynan Sylvester.
