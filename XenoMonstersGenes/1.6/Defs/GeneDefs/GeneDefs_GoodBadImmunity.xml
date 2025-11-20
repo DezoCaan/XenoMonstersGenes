@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneImmunity" Abstract="True">
+		<displayCategory>XMonsters_Health</displayCategory>
+		<exclusionTags>
+			<li>Immunity</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneImmunity">
+		<defName>XMonsters_SuperWeakestImmunity</defName>
+		<label>super weakest immunity</label>
+		<labelShortAdj>super weakest immunity</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/GoodBadImmunity/XMonsters_BadImmunity3</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+		<statFactors>
+			<ImmunityGainSpeed>0.25</ImmunityGainSpeed>
+		</statFactors>
+		<suppressedTraits>
+			<li>
+				<def>Immunity</def>
+				<degree>-1</degree>
+			</li>
+		</suppressedTraits>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>5</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>superweakest</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneImmunity">
+		<defName>XMonsters_WeakestImmunity</defName>
+		<label>weakest immunity</label>
+		<labelShortAdj>weakest immunity</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/GoodBadImmunity/XMonsters_BadImmunity2</iconPath>
+		<displayOrderInCategory>7</displayOrderInCategory>
+		<statFactors>
+			<ImmunityGainSpeed>0.50</ImmunityGainSpeed>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>4</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>weakest</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneImmunity">
+		<defName>XMonsters_VeryWeakImmunity</defName>
+		<label>very weak immunity</label>
+		<labelShortAdj>very weak immunity</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/GoodBadImmunity/XMonsters_BadImmunity1</iconPath>
+		<displayOrderInCategory>8</displayOrderInCategory>
+		<statFactors>
+			<ImmunityGainSpeed>0.75</ImmunityGainSpeed>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>veryweak</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneImmunity">
+		<defName>XMonsters_StrongImmunity</defName>
+		<label>free strong immunity</label>
+		<labelShortAdj>free strong immunity</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/GoodBadImmunity/XMonsters_Immunity1</iconPath>
+		<displayOrderInCategory>9</displayOrderInCategory>
+		<statFactors>
+			<ImmunityGainSpeed>1.25</ImmunityGainSpeed>
+		</statFactors>
+		<biostatCpx>2</biostatCpx>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>strong</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneImmunity">
+		<defName>XMonsters_SuperImmunity</defName>
+		<label>cheap super immunity</label>
+		<labelShortAdj>cheap super immunity</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/GoodBadImmunity/XMonsters_Immunity2</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+		<statFactors>
+			<ImmunityGainSpeed>1.50</ImmunityGainSpeed>
+		</statFactors>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>super</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneImmunity">
+		<defName>XMonsters_SuperStrongImmunity</defName>
+		<label>super strong immunity</label>
+		<labelShortAdj>super strong immunity</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/GoodBadImmunity/XMonsters_Immunity3</iconPath>
+		<displayOrderInCategory>11</displayOrderInCategory>
+		<statFactors>
+			<ImmunityGainSpeed>2</ImmunityGainSpeed>
+		</statFactors>
+		<biostatCpx>4</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>strongest</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+</Defs>

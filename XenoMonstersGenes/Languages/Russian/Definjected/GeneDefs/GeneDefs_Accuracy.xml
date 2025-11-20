@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_MediocreAccuracy.label>посредственная точность стрельбы</XMonsters_MediocreAccuracy.label>
+	<XMonsters_MediocreAccuracy.description>Без Описания.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_MediocreAccuracy.description>
+	
+	<XMonsters_AwfulAccuracy.label>ужасная точность стрельбы</XMonsters_AwfulAccuracy.label>
+	<XMonsters_AwfulAccuracy.description>Без Описания.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_AwfulAccuracy.description>
+	
+	<XMonsters_BadAccuracy.label>плохая точность стрельбы</XMonsters_BadAccuracy.label>
+	<XMonsters_BadAccuracy.description>Без Описания.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_BadAccuracy.description>
+	
+	<XMonsters_NoBadAccuracy.label>неплохая точность стрельбы</XMonsters_NoBadAccuracy.label>
+	<XMonsters_NoBadAccuracy.description>Без Описания.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_NoBadAccuracy.description>
+	
+	<XMonsters_ExcellentAccuracy.label>отличная точность стрельбы</XMonsters_ExcellentAccuracy.label>
+	<XMonsters_ExcellentAccuracy.description>Без Описания.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_ExcellentAccuracy.description>
+	
+	<XMonsters_ProfessionalAccuracy.label>профессиональная точность стрельбы</XMonsters_ProfessionalAccuracy.label>
+	<XMonsters_ProfessionalAccuracy.description>Без Описания.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_ProfessionalAccuracy.description>
+	
+</LanguageData>
