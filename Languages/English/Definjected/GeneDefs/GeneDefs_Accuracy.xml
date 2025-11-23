@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_MediocreAccuracy.label>mediocre shooting accuracy</XMonsters_MediocreAccuracy.label>
+	<XMonsters_MediocreAccuracy.description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_MediocreAccuracy.description>
+	
+	<XMonsters_AwfulAccuracy.label>awful shooting accuracy</XMonsters_AwfulAccuracy.label>
+	<XMonsters_AwfulAccuracy.description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_AwfulAccuracy.description>
+	
+	<XMonsters_BadAccuracy.label>bad shooting accuracy</XMonsters_BadAccuracy.label>
+	<XMonsters_BadAccuracy.description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_BadAccuracy.description>
+	
+	<XMonsters_NoBadAccuracy.label>no bad shooting accuracy</XMonsters_NoBadAccuracy.label>
+	<XMonsters_NoBadAccuracy.description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_NoBadAccuracy.description>
+	
+	<XMonsters_ExcellentAccuracy.label>excellent shooting accuracy</XMonsters_ExcellentAccuracy.label>
+	<XMonsters_ExcellentAccuracy.description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_ExcellentAccuracy.description>
+	
+	<XMonsters_ProfessionalAccuracy.label>professional shooting accuracy</XMonsters_ProfessionalAccuracy.label>
+	<XMonsters_ProfessionalAccuracy.description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_ProfessionalAccuracy.description>
+	
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_NoBadHandlingWeapons.label>weapons handling - no bad</XMonsters_NoBadHandlingWeapons.label>
+	<XMonsters_NoBadHandlingWeapons.description>No Text.</XMonsters_NoBadHandlingWeapons.description>
+	
+	<XMonsters_GoodHandlingWeapons.label>weapons handling - good</XMonsters_GoodHandlingWeapons.label>
+	<XMonsters_GoodHandlingWeapons.description>No Text.</XMonsters_GoodHandlingWeapons.description>
+	
+	<XMonsters_ExcellentHandlingWeapons.label>weapons handling - excellent</XMonsters_ExcellentHandlingWeapons.label>
+	<XMonsters_ExcellentHandlingWeapons.description>No Text.</XMonsters_ExcellentHandlingWeapons.description>
+	
+	<XMonsters_ProfessionalHandlingWeapons.label>weapons handling - professional</XMonsters_ProfessionalHandlingWeapons.label>
+	<XMonsters_ProfessionalHandlingWeapons.description>No Text.</XMonsters_ProfessionalHandlingWeapons.description>
+	
+	<XMonsters_UnrealHandlingWeapons.label>weapons handling - unreal</XMonsters_UnrealHandlingWeapons.label>
+	<XMonsters_UnrealHandlingWeapons.description>No Text.</XMonsters_UnrealHandlingWeapons.description>
+	
+</LanguageData>

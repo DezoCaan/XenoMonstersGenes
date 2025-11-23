@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_AwfulAimingDelay.label>ужасная скорость прицеливания</XMonsters_AwfulAimingDelay.label>
+	<XMonsters_AwfulAimingDelay.description>Без Описания.</XMonsters_AwfulAimingDelay.description>
+	
+	<XMonsters_VeryBadAimingDelay.label>очень низкая скорость прицеливания</XMonsters_VeryBadAimingDelay.label>
+	<XMonsters_VeryBadAimingDelay.description>Без Описания.</XMonsters_VeryBadAimingDelay.description>
+	
+	<XMonsters_BadAimingDelay.label>низкая скорость прицеливания</XMonsters_BadAimingDelay.label>
+	<XMonsters_BadAimingDelay.description>Без Описания.</XMonsters_BadAimingDelay.description>
+	
+	<XMonsters_GoodAimingDelay.label>высокая скорость прицеливания</XMonsters_GoodAimingDelay.label>
+	<XMonsters_GoodAimingDelay.description>Без Описания.</XMonsters_GoodAimingDelay.description>
+	
+	<XMonsters_VeryGoodAimingDelay.label>очень высокая скорость прицеливания</XMonsters_VeryGoodAimingDelay.label>
+	<XMonsters_VeryGoodAimingDelay.description>Без Описания.</XMonsters_VeryGoodAimingDelay.description>
+	
+	<XMonsters_ProfessionalAimingDelay.label>профессиональная скорость прицеливания</XMonsters_ProfessionalAimingDelay.label>
+	<XMonsters_ProfessionalAimingDelay.description>Без Описания.</XMonsters_ProfessionalAimingDelay.description>
+
+</LanguageData>

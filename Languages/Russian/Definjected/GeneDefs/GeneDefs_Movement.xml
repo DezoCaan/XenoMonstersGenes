@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_StoneSpeed.label>скорость камня</XMonsters_StoneSpeed.label>
+	<XMonsters_StoneSpeed.description>Без Описания.</XMonsters_StoneSpeed.description>
+	
+	<XMonsters_SlugSpeed.label>скорость слизня</XMonsters_SlugSpeed.label>
+	<XMonsters_SlugSpeed.description>Без Описания.</XMonsters_SlugSpeed.description>
+	
+	<XMonsters_HareSpeed.label>скорость зайца</XMonsters_HareSpeed.label>
+	<XMonsters_HareSpeed.description>&lt;color=#a3a3cc&gt;Аудиозапись Доктора Маднесса, преобразованная в текст.&lt;/color&gt;
+
+Этот ген который мне первым удосужилось помогать исследовать вместе с другими коллегами в одном из &lt;color=#660005&gt;Маднессворлдов&lt;/color&gt;. 
+Этот ген даёт большую скорость передвижения, однако, не в этом его уникальность, а в том, что он никак не влияет на метаболизм носителя и его можно совершенно спокойно вживить в любого. Ну… Естественно, при условии, что реципиенту которому собираются вживить этот ген, не имеет другие гены на скорость передвижения.
+Некоторые другие исследователи, как я выяснил, подмечали, что этот ген очень часто встречается у некоторых &lt;color=#66c6cc&gt;Ксенолюдей&lt;/color&gt; из &lt;color=#660005&gt;Маднессворлдов&lt;/color&gt;, или как их называют обитатели этих миров, &lt;color=#990007&gt;Ксеномонстры&lt;/color&gt;.</XMonsters_HareSpeed.description>
+	
+	<XMonsters_CheetahSpeed.label>скорость гепарда</XMonsters_CheetahSpeed.label>
+	<XMonsters_CheetahSpeed.description>Без Описания.</XMonsters_CheetahSpeed.description>
+	
+	<XMonsters_RacingCarSpeed.label>скорость гоночного автомобиля</XMonsters_RacingCarSpeed.label>
+	<XMonsters_RacingCarSpeed.description>Без Описания.</XMonsters_RacingCarSpeed.description>
+	
+	<XMonsters_SupersonicSpeed.label>скорость звука</XMonsters_SupersonicSpeed.label>
+	<XMonsters_SupersonicSpeed.description>Без Описания.</XMonsters_SupersonicSpeed.description>
+	
+	<XMonsters_SuperluminalSpeed.label>скорость света</XMonsters_SuperluminalSpeed.label>
+	<XMonsters_SuperluminalSpeed.description>Без Описания.</XMonsters_SuperluminalSpeed.description>
+	
+	<XMonsters_DevilSpeed.label>скорость дьявола</XMonsters_DevilSpeed.label>
+	<XMonsters_DevilSpeed.description>Без Описания.</XMonsters_DevilSpeed.description>
+	
+</LanguageData>
