@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneReloadSpeed" Abstract="True">
+		<displayCategory>XMonsters_RangedCombat</displayCategory>
+		<exclusionTags>
+			<li>XMonsters_ReloadSpeed</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_SlightlyFastReload</defName>
+		<label>reload speed - slightly fast</label>
+		<labelShortAdj>reload speed - slightly fast</labelShortAdj>
+		<description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload1</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">1.25</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>2</biostatCpx>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>slightlyfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_FastReload</defName>
+		<label>reload speed - fast</label>
+		<labelShortAdj>reload speed - fast</labelShortAdj>
+		<description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload2</iconPath>
+		<displayOrderInCategory>7</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">1.50</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>2</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>fastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_VeryFastReload</defName>
+		<label>reload speed - very fast</label>
+		<labelShortAdj>reload speed - very fast</labelShortAdj>
+		<description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload3</iconPath>
+		<displayOrderInCategory>8</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">2</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>veryfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_SuperFastReload</defName>
+		<label>reload speed - super fast</label>
+		<labelShortAdj>reload speed - super fast</labelShortAdj>
+		<description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload4</iconPath>
+		<displayOrderInCategory>9</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">2.5</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>superfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneReloadSpeed">
+		<defName>XMonsters_UnrealFastReload</defName>
+		<label>reload speed - unreal fast</label>
+		<labelShortAdj>reload speed - unreal fast</labelShortAdj>
+		<description>No Text.
+
+&lt;color=#e5e500&gt;Note:&lt;/color&gt;
+
+This gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/SpeedReload/XMonsters_SpeedReload5</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+		<statFactors>
+			<ReloadSpeed MayRequire="CETeam.CombatExtended">3</ReloadSpeed>
+		</statFactors>
+		<biostatCpx>4</biostatCpx>
+		<biostatMet>-4</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>unrealfastreload</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+</Defs>

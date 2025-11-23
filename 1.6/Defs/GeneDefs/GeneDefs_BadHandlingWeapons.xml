@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef ParentName="XMonsters_GeneHandlingWeapons">
+		<defName>XMonsters_BadHandlingWeapons</defName>
+		<label>weapons handling - bad</label>
+		<labelShortAdj>weapons handling - bad</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/HandlingWeapons/XMonsters_BadHandlingWeapons1</iconPath>
+		<displayOrderInCategory>15</displayOrderInCategory>
+		<statFactors>
+			<ShootingAccuracyPawn>0.8</ShootingAccuracyPawn>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>badhandlingweapons</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneHandlingWeapons">
+		<defName>XMonsters_VeryBadHandlingWeapons</defName>
+		<label>weapons handling - very bad</label>
+		<labelShortAdj>weapons handling - very bad</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/HandlingWeapons/XMonsters_BadHandlingWeapons2</iconPath>
+		<displayOrderInCategory>14</displayOrderInCategory>
+		<statFactors>
+			<ShootingAccuracyPawn>0.6</ShootingAccuracyPawn>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>verybadhandlingweapons</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneHandlingWeapons">
+		<defName>XMonsters_AwfulHandlingWeapons</defName>
+		<label>weapons handling - awful</label>
+		<labelShortAdj>weapons handling - awful</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/HandlingWeapons/XMonsters_BadHandlingWeapons3</iconPath>
+		<displayOrderInCategory>13</displayOrderInCategory>
+		<statFactors>
+			<ShootingAccuracyPawn>0.4</ShootingAccuracyPawn>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>awfulhandlingweapons</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneHandlingWeapons">
+		<defName>XMonsters_ShamefulHandlingWeapons</defName>
+		<label>weapons handling - shameful</label>
+		<labelShortAdj>weapons handling - shameful</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/HandlingWeapons/XMonsters_BadHandlingWeapons4</iconPath>
+		<displayOrderInCategory>12</displayOrderInCategory>
+		<statFactors>
+			<ShootingAccuracyPawn>0.2</ShootingAccuracyPawn>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>4</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>shamefulhandlingweapons</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneHandlingWeapons">
+		<defName>XMonsters_IncompetentHandlingWeapons</defName>
+		<label>weapons handling - incompetent</label>
+		<labelShortAdj>weapons handling - incompetent</labelShortAdj>
+		<description>No Text.</description>
+		<iconPath>UI/Icons/Genes/HandlingWeapons/XMonsters_BadHandlingWeapons5</iconPath>
+		<displayOrderInCategory>11</displayOrderInCategory>
+		<statFactors>
+			<ShootingAccuracyPawn>0</ShootingAccuracyPawn>
+		</statFactors>
+		<suppressedTraits>
+			<li>
+				<def>ShootingAccuracy</def>
+				<degree>-1</degree>
+			</li>
+		</suppressedTraits>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>5</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>shamefulhandlingweapons</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+</Defs>
