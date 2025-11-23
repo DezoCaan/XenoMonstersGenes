@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+
+	<name>XenoMonsters - Monster Genes</name>
+	
+	<author>Dezo The Demon of Madness</author>
+	
+	<modVersion>1.0.0</modVersion>
+	
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	
+	<modIconPath IgnoreIfNoMatchingField="True">UI/XMGenes_Icon</modIconPath>
+	
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		 <li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+	</modDependencies>
+	
+	<loadBefore>
+		<li>CETeam.CombatExtended</li>
+	</loadBefore>
+	
+	<loadAfter>
+		<li>brrainz.harmony</li>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	
+	<packageId>dezo.xenomonsters.genes</packageId>
+	
+	<description>There's nothing particularly interesting about this mod; it simply adds genes that give or change certain characteristics, such as better wound healing, better immunity, better movement speed, and so on.
+
+In addition, the mod adds some genes that give or change characteristics from the Combat Extended mod. By type, genes that change weapon reload speed.
+
+I don't know how this mod will develop, or if it will develop at all. It's up to fate to decide.
+
+&lt;color=#990007&gt;Installing&lt;/color&gt; &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; &lt;color=#990007&gt;is not necessary, but then some genes will be useless.&lt;/color&gt;</description>
+
+</ModMetaData>
