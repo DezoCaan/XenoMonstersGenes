@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_NoBadHandlingWeapons.label>точность стрельбы - неплохая</XMonsters_NoBadHandlingWeapons.label>
+	<XMonsters_NoBadHandlingWeapons.description>У носителей этого гена неплохая точность стрельбы.</XMonsters_NoBadHandlingWeapons.description>
+	
+	<XMonsters_GoodHandlingWeapons.label>точность стрельбы - хорошая</XMonsters_GoodHandlingWeapons.label>
+	<XMonsters_GoodHandlingWeapons.description>У носителей этого гена хорошая точность стрельбы.</XMonsters_GoodHandlingWeapons.description>
+	
+	<XMonsters_ExcellentHandlingWeapons.label>точность стрельбы - отличная</XMonsters_ExcellentHandlingWeapons.label>
+	<XMonsters_ExcellentHandlingWeapons.description>У носителей этого гена отличная точность стрельбы.</XMonsters_ExcellentHandlingWeapons.description>
+	
+	<XMonsters_ProfessionalHandlingWeapons.label>точность стрельбы - профессиональная</XMonsters_ProfessionalHandlingWeapons.label>
+	<XMonsters_ProfessionalHandlingWeapons.description>У носителей этого гена профессиональная точность стрельбы.</XMonsters_ProfessionalHandlingWeapons.description>
+	
+	<XMonsters_UnrealHandlingWeapons.label>точность стрельбы - нереальная</XMonsters_UnrealHandlingWeapons.label>
+	<XMonsters_UnrealHandlingWeapons.description>Любое стрелковое оружие для носителя гена - словно продолжение его самого.</XMonsters_UnrealHandlingWeapons.description>
+	
+</LanguageData>

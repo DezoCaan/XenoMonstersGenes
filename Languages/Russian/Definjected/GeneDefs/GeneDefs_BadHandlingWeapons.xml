@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_BadHandlingWeapons.label>точность стрельбы - плохая</XMonsters_BadHandlingWeapons.label>
+	<XMonsters_BadHandlingWeapons.description>У носителей этого гена плохая точность стрельбы.</XMonsters_BadHandlingWeapons.description>
+	
+	<XMonsters_VeryBadHandlingWeapons.label>точность стрельбы - очень плохая</XMonsters_VeryBadHandlingWeapons.label>
+	<XMonsters_VeryBadHandlingWeapons.description>У носителей этого гена очень плохая точность стрельбы.</XMonsters_VeryBadHandlingWeapons.description>
+	
+	<XMonsters_AwfulHandlingWeapons.label>точность стрельбы - ужасная</XMonsters_AwfulHandlingWeapons.label>
+	<XMonsters_AwfulHandlingWeapons.description>У носителей этого гена ужасная точность стрельбы.</XMonsters_AwfulHandlingWeapons.description>
+	
+	<XMonsters_ShamefulHandlingWeapons.label>точность стрельбы - позорная</XMonsters_ShamefulHandlingWeapons.label>
+	<XMonsters_ShamefulHandlingWeapons.description>У носителей этого гена точность стрельбы желает лучшего.</XMonsters_ShamefulHandlingWeapons.description>
+	
+	<XMonsters_IncompetentHandlingWeapons.label>точность стрельбы - некомпетентная</XMonsters_IncompetentHandlingWeapons.label>
+	<XMonsters_IncompetentHandlingWeapons.description>ТЫ КУДА СТРЕЛЯЕШЬ, ПРИДУРОК?!</XMonsters_IncompetentHandlingWeapons.description>
+	
+</LanguageData>

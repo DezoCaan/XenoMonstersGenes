@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_FastHealing.label>free fast wound healing</XMonsters_FastHealing.label>
+	<XMonsters_FastHealing.description>Does not require metabolism for rapid wound healing.</XMonsters_FastHealing.description>
+
+	<XMonsters_SuperFastHealing.label>cheap super fast wound healing</XMonsters_SuperFastHealing.label>
+	<XMonsters_SuperFastHealing.description>A cheap analogue of the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt; that heals wounds super-fast.</XMonsters_SuperFastHealing.description>
+
+	<XMonsters_HyperFastHealing.label>hyper fast wound healing</XMonsters_HyperFastHealing.label>
+	<XMonsters_HyperFastHealing.description>And this is already really fast healing of wounds.</XMonsters_HyperFastHealing.description>
+	
+	<XMonsters_UltraFastHealing.label>ultra fast wound healing</XMonsters_UltraFastHealing.label>
+	<XMonsters_UltraFastHealing.description>Okay, we take it back - this is really fast healing of wounds.</XMonsters_UltraFastHealing.description>
+	
+	<XMonsters_ImpossibleFastHealing.label>impossible fast wound healing</XMonsters_ImpossibleFastHealing.label>
+	<XMonsters_ImpossibleFastHealing.description>It's impossible to imagine how quickly wounds heal.</XMonsters_ImpossibleFastHealing.description>
+	
+	<XMonsters_ArchoFastHealing.label>archofast wound healing</XMonsters_ArchoFastHealing.label>
+	<XMonsters_ArchoFastHealing.description>Carriers of this gene have a truly unimaginable speed of wound healing.</XMonsters_ArchoFastHealing.description>
+
+</LanguageData>

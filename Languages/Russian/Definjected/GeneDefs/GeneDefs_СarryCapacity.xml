@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_SuperLowСarryCapacity.label>грузоподъёмность - сверхнизкая</XMonsters_SuperLowСarryCapacity.label>
+	<XMonsters_SuperLowСarryCapacity.description>Надеюсь, хотя бы свои трусы ты можешь носить?
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_SuperLowСarryCapacity.description>
+	
+	<XMonsters_VeryLowСarryCapacity.label>грузоподъёмность - очень низкая</XMonsters_VeryLowСarryCapacity.label>
+	<XMonsters_VeryLowСarryCapacity.description>Носители этого гена имеют очень низкую грузоподъёмность.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_VeryLowСarryCapacity.description>
+	
+	<XMonsters_LowСarryCapacity.label>грузоподъёмность - низкая</XMonsters_LowСarryCapacity.label>
+	<XMonsters_LowСarryCapacity.description>Носители этого гена имеют низкую грузоподъёмность.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_LowСarryCapacity.description>
+	
+	<XMonsters_HighСarryCapacity.label>грузоподъёмность - высокая</XMonsters_HighСarryCapacity.label>
+	<XMonsters_HighСarryCapacity.description>Носители этого гена имеют высокую грузоподъёмность.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_HighСarryCapacity.description>
+	
+	<XMonsters_VeryHighСarryCapacity.label>грузоподъёмность - очень высокая</XMonsters_VeryHighСarryCapacity.label>
+	<XMonsters_VeryHighСarryCapacity.description>Носители этого гена имеют очень высокую грузоподъёмность.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_VeryHighСarryCapacity.description>
+	
+	<XMonsters_SuperHighСarryCapacity.label>грузоподъёмность - сверхвысокая</XMonsters_SuperHighСarryCapacity.label>
+	<XMonsters_SuperHighСarryCapacity.description>Интересно, а где они хранят у себя столько вещей и патронов?
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_SuperHighСarryCapacity.description>
+	
+	<XMonsters_ArchoСarryCapacity.label>грузоподъёмность - арховысокая</XMonsters_ArchoСarryCapacity.label>
+	<XMonsters_ArchoСarryCapacity.description>Похоже, у носителей этого гена их карманы - превращаются чуть ли не в отдельные искажённые измерения.
+	
+&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;
+
+Этот ген раскроет себя полностью, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_ArchoСarryCapacity.description>
+
+</LanguageData>

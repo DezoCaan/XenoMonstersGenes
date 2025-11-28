@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_Cosmetics.label>ксеномонстры - косметика</XMonsters_Cosmetics.label>
+	
+	<XMonsters_Body.label>ксеномонстры - тело</XMonsters_Body.label>
+	
+	<XMonsters_HairColor.label>ксеномонстры - цвет волос</XMonsters_HairColor.label>
+	
+	<XMonsters_SkinColor.label>ксеномонстры - цвет кожи</XMonsters_SkinColor.label>
+	
+	<XMonsters_Stamina.label>ксеномонстры - выносливость</XMonsters_Stamina.label>
+	
+	<XMonsters_Movement.label>&lt;color=#7f7f59&gt;ксеномонстры - движение&lt;/color&gt;</XMonsters_Movement.label>
+	
+	<XMonsters_Health.label>&lt;color=#8ebbcc&gt;ксеномонстры - здоровье&lt;/color&gt;</XMonsters_Health.label>
+	
+	<XMonsters_RangedCombat.label>&lt;color=#b29c2c&gt;ксеномонстры - дальний бой&lt;/color&gt;</XMonsters_RangedCombat.label>
+	
+	<XMonsters_MeleeCombat.label>ксеномонстры - ближний бой</XMonsters_MeleeCombat.label>
+	
+	<XMonsters_Miscellaneous.label>&lt;color=#990007&gt;ксеномонстры&lt;/color&gt; &lt;color=#ffbb32&gt;-&lt;/color&gt; &lt;color=#32507f&gt;разное&lt;/color&gt;</XMonsters_Miscellaneous.label>
+	
+</LanguageData>
