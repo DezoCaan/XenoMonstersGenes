@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_MediocreAccuracy.label>посредственная точность прицеливания</XMonsters_MediocreAccuracy.label>
+	<XMonsters_MediocreAccuracy.description>У носителей этого гена посредственная меткость.\n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;\n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_MediocreAccuracy.description>
+	
+	<XMonsters_AwfulAccuracy.label>ужасная точность прицеливания</XMonsters_AwfulAccuracy.label>
+	<XMonsters_AwfulAccuracy.description>У носителей этого гена ужасная меткость.\n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;\n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_AwfulAccuracy.description>
+	
+	<XMonsters_BadAccuracy.label>плохая точность прицеливания</XMonsters_BadAccuracy.label>
+	<XMonsters_BadAccuracy.description>У носителей этого гена плохая меткость.\n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;\n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_BadAccuracy.description>
+	
+	<XMonsters_NoBadAccuracy.label>неплохая точность прицеливания</XMonsters_NoBadAccuracy.label>
+	<XMonsters_NoBadAccuracy.description>У носителей этого гена неплохая меткость.\n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;\n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_NoBadAccuracy.description>
+	
+	<XMonsters_ExcellentAccuracy.label>отличная точность прицеливания</XMonsters_ExcellentAccuracy.label>
+	<XMonsters_ExcellentAccuracy.description>У каждого профессиональнала свои секреты.\n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;\n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_ExcellentAccuracy.description>
+	
+	<XMonsters_ProfessionalAccuracy.label>профессиональная точность прицеливания</XMonsters_ProfessionalAccuracy.label>
+	<XMonsters_ProfessionalAccuracy.description>Бум! В голову.\n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt;\n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_ProfessionalAccuracy.description>
+	
+</LanguageData>

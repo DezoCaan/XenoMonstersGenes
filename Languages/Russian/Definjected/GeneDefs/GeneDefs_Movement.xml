@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_StoneSpeed.label>скорость камня</XMonsters_StoneSpeed.label>
+	<XMonsters_StoneSpeed.description>На самом деле, обладатели этого гена владеют такой огромной скоростью передвижения, что даже сами этого не осознают. Аж этот ген подавляет черту связанную со замедлением скорости передвижения.</XMonsters_StoneSpeed.description>
+	
+	<XMonsters_SlugSpeed.label>скорость слизня</XMonsters_SlugSpeed.label>
+	<XMonsters_SlugSpeed.description>Знаешь, в какой-то степени, эти моллюски по своему милые, ползут по своим делам спокойно и никого не трогают. Единственные их минусы, - они жрут урожай и переносят всякую заразу.</XMonsters_SlugSpeed.description>
+	
+	<XMonsters_HareSpeed.label>скорость зайца</XMonsters_HareSpeed.label>
+	<XMonsters_HareSpeed.description>Этот ген даёт приличную скорость передвижения, превосходящую некоторые &lt;color=#66c6cc&gt;ванильные гены&lt;/color&gt;, так ещё и не влияет на метаболизм.</XMonsters_HareSpeed.description>
+	
+	<XMonsters_CheetahSpeed.label>скорость гепарда</XMonsters_CheetahSpeed.label>
+	<XMonsters_CheetahSpeed.description>Этот ген превосходит &lt;color=#7f7f59&gt;предыдущий ген&lt;/color&gt;. Однако уже требует метаболизм, но незначительно.</XMonsters_CheetahSpeed.description>
+	
+	<XMonsters_RacingCarSpeed.label>скорость гоночного автомобиля</XMonsters_RacingCarSpeed.label>
+	<XMonsters_RacingCarSpeed.description>Ты это называешь скоростью?
+ВОТ НАСТОЯЩАЯ СКОРОСТЬ!!!
+</XMonsters_RacingCarSpeed.description>
+	
+	<XMonsters_SupersonicSpeed.label>скорость звука</XMonsters_SupersonicSpeed.label>
+	<XMonsters_SupersonicSpeed.description>Я мог бы достичь сверхзвуковой скорости…</XMonsters_SupersonicSpeed.description>
+	
+	<XMonsters_SuperluminalSpeed.label>скорость света</XMonsters_SuperluminalSpeed.label>
+	<XMonsters_SuperluminalSpeed.description>К сожалению, несмотря на название, этот ген не дает обладателю возможность путешествовать к звёздам. Да и зачем ему это?</XMonsters_SuperluminalSpeed.description>
+	
+	<XMonsters_DevilSpeed.label>скорость дьявола</XMonsters_DevilSpeed.label>
+	<XMonsters_DevilSpeed.description>Этот ген даёт дьявольскую скорость и подавляет черту на замедление скорости передвижения.</XMonsters_DevilSpeed.description>
+	
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_TerriblyShotRange.label>terribly shot range</XMonsters_TerriblyShotRange.label>
+	<XMonsters_TerriblyShotRange.description>For some reason, carriers of this gene cannot shoot further than their noses.</XMonsters_TerriblyShotRange.description>
+	
+	<XMonsters_VeryShortShotRange.label>very short shot range</XMonsters_VeryShortShotRange.label>
+	<XMonsters_VeryShortShotRange.description>Carriers of this gene somehow have a very short shooting range.</XMonsters_VeryShortShotRange.description>
+	
+	<XMonsters_ShortShotRange.label>short shot range</XMonsters_ShortShotRange.label>
+	<XMonsters_ShortShotRange.description>Carriers of this gene somehow have a short shooting range.</XMonsters_ShortShotRange.description>
+	
+	<XMonsters_LongShotRange.label>long shot range</XMonsters_LongShotRange.label>
+	<XMonsters_LongShotRange.description>Carriers of this gene somehow have a long shooting range.</XMonsters_LongShotRange.description>
+	
+	<XMonsters_VeryLongShotRange.label>very long shot range</XMonsters_VeryLongShotRange.label>
+	<XMonsters_VeryLongShotRange.description>Carriers of this gene somehow have a very long shooting range.</XMonsters_VeryLongShotRange.description>
+	
+	<XMonsters_UnrealLongShotRange.label>unreal long shot range</XMonsters_UnrealLongShotRange.label>
+	<XMonsters_UnrealLongShotRange.description>HOW DOES HE MANAGE TO SHOOT SO FAR?!</XMonsters_UnrealLongShotRange.description>
+	
+</LanguageData>
