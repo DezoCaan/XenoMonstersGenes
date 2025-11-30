@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneCategoryDef>
+		<defName>XMonsters_Cosmetic</defName>
+		<label>xenomonsters - cosmetic</label>
+		<displayPriorityInXenotype>-10</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Body</defName>
+		<label>xenomonsters - body</label>
+		<displayPriorityInXenotype>-20</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_HairColor</defName>
+		<label>xenomonsters - hair color</label>
+		<displayPriorityInXenotype>-30</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_SkinColor</defName>
+		<label>xenomonsters - skin color</label>
+		<displayPriorityInXenotype>-40</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Stamina</defName>
+		<label>xenomonsters - stamina</label>
+		<displayPriorityInXenotype>-50</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Movement</defName>
+		<label>&lt;color=#7f7f59&gt;xenomonsters - movement&lt;/color&gt;</label>
+		<displayPriorityInXenotype>-60</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Health</defName>
+		<label>&lt;color=#8ebbcc&gt;xenomonsters - health&lt;/color&gt;</label>
+		<displayPriorityInXenotype>-70</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_RangedCombat</defName>
+		<label>&lt;color=#b29c2c&gt;xenomonsters - ranged combat&lt;/color&gt;</label>
+		<displayPriorityInXenotype>-80</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_MeleeCombat</defName>
+		<label>xenomonsters - melee combat</label>
+		<displayPriorityInXenotype>-90</displayPriorityInXenotype>
+	</GeneCategoryDef>
+	
+	<GeneCategoryDef>
+		<defName>XMonsters_Miscellaneous</defName>
+		<label>&lt;color=#990007&gt;xenomonsters&lt;/color&gt; &lt;color=#ffbb32&gt;-&lt;/color&gt; &lt;color=#32507f&gt;miscellaneous&lt;/color&gt;</label>
+		<displayPriorityInXenotype>-100</displayPriorityInXenotype>
+	</GeneCategoryDef>
+
+</Defs>
