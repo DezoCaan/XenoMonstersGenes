@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_StrongMeleeDamage.label>урон в ближнем бою - сильный</XMonsters_StrongMeleeDamage.label>
+	<XMonsters_StrongMeleeDamage.description>Носители гена наносят сильный урон в ближнем бою. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген может также служить дополнением к &lt;color=#66c6cc&gt;ванильному гену&lt;/color&gt;: &lt;color=#4c994c&gt;Мастерство в рукопашной&lt;/color&gt;.</XMonsters_StrongMeleeDamage.description>
+	
+	<XMonsters_VeryStrongMeleeDamage.label>урон в ближнем бою - очень сильный</XMonsters_VeryStrongMeleeDamage.label>
+	<XMonsters_VeryStrongMeleeDamage.description>Носители гена наносят очень сильный урон в ближнем бою. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген может также служить дополнением к &lt;color=#66c6cc&gt;ванильному гену&lt;/color&gt;: &lt;color=#4c994c&gt;Мастерство в рукопашной&lt;/color&gt;.</XMonsters_VeryStrongMeleeDamage.description>
+	
+	<XMonsters_StrongestMeleeDamage.label>урон в ближнем бою - сильнейший</XMonsters_StrongestMeleeDamage.label>
+	<XMonsters_StrongestMeleeDamage.description>Носители гена наносят сильнейший урон в ближнем бою. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген может также служить дополнением к &lt;color=#66c6cc&gt;ванильному гену&lt;/color&gt;: &lt;color=#4c994c&gt;Мастерство в рукопашной&lt;/color&gt;.</XMonsters_StrongestMeleeDamage.description>
+	
+	<XMonsters_DevastatingMeleeDamage.label>урон в ближнем бою - разрушительный</XMonsters_DevastatingMeleeDamage.label>
+	<XMonsters_DevastatingMeleeDamage.description>Носители гена наносят разрушительный урон в ближнем бою. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген может также служить дополнением к &lt;color=#66c6cc&gt;ванильному гену&lt;/color&gt;: &lt;color=#4c994c&gt;Мастерство в рукопашной&lt;/color&gt;.</XMonsters_DevastatingMeleeDamage.description>
+	
+	<XMonsters_DeadlyMeleeDamage.label>урон в ближнем бою - смертоносный</XMonsters_DeadlyMeleeDamage.label>
+	<XMonsters_DeadlyMeleeDamage.description>Носители гена наносят смертоносный урон в ближнем бою. Будет не очень приятно, если они окажутся вашими врагами. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген может также служить дополнением к &lt;color=#66c6cc&gt;ванильному гену&lt;/color&gt;: &lt;color=#4c994c&gt;Мастерство в рукопашной&lt;/color&gt;.</XMonsters_DeadlyMeleeDamage.description>
+	
+</LanguageData>

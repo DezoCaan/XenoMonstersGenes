@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_TerriblyLowMeleeCrit.label>terribly low critical hit chance</XMonsters_TerriblyLowMeleeCrit.label>
+	<XMonsters_TerriblyLowMeleeCrit.description>Carriers of the gene never or rarely deal critical hits. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_TerriblyLowMeleeCrit.description>
+	
+	<XMonsters_VeryLowMeleeCrit.label>very low critical hit chance</XMonsters_VeryLowMeleeCrit.label>
+	<XMonsters_VeryLowMeleeCrit.description>Carriers of the gene have a very low chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_VeryLowMeleeCrit.description>
+	
+	<XMonsters_LowMeleeCrit.label>low critical hit chance</XMonsters_LowMeleeCrit.label>
+	<XMonsters_LowMeleeCrit.description>Carriers of the gene have a low chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_LowMeleeCrit.description>
+	
+	<XMonsters_HighMeleeCrit.label>high critical hit chance</XMonsters_HighMeleeCrit.label>
+	<XMonsters_HighMeleeCrit.description>Carriers of the gene have a high chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_HighMeleeCrit.description>
+	
+	<XMonsters_VeryHighMeleeCrit.label>very high critical hit chance</XMonsters_VeryHighMeleeCrit.label>
+	<XMonsters_VeryHighMeleeCrit.description>Carriers of the gene have a very high chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_VeryHighMeleeCrit.description>
+	
+	<XMonsters_DevastatinglyHighMeleeCrit.label>devastatingly high critical hit chance</XMonsters_DevastatinglyHighMeleeCrit.label>
+	<XMonsters_DevastatinglyHighMeleeCrit.description>This is a case where should avoid melee combat unnecessarily. \nBut who should? \nThat's a whole other question. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_DevastatinglyHighMeleeCrit.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_AwfulFiringRate.label>ужасная скорострельность</XMonsters_AwfulFiringRate.label>
+	<XMonsters_AwfulFiringRate.description>У него почти отсутствует какая-либо скорострельность.</XMonsters_AwfulFiringRate.description>
+	
+	<XMonsters_VeryLowFiringRate.label>очень низкая скорострельность</XMonsters_VeryLowFiringRate.label>
+	<XMonsters_VeryLowFiringRate.description>У носителей гена очень низкая скорострельность.</XMonsters_VeryLowFiringRate.description>
+	
+	<XMonsters_LowFiringRate.label>низкая скорострельность</XMonsters_LowFiringRate.label>
+	<XMonsters_LowFiringRate.description>У носителей гена низкая скорострельность.</XMonsters_LowFiringRate.description>
+	
+	<XMonsters_HighFiringRate.label>высокая скорострельность</XMonsters_HighFiringRate.label>
+	<XMonsters_HighFiringRate.description>У носителей гена высокая скорострельность.</XMonsters_HighFiringRate.description>
+	
+	<XMonsters_VeryHighFiringRate.label>очень высокая скорострельность</XMonsters_VeryHighFiringRate.label>
+	<XMonsters_VeryHighFiringRate.description>У носителей гена очень высокая скорострельность.</XMonsters_VeryHighFiringRate.description>
+	
+	<XMonsters_UnrealFiringRate.label>нереальная скорострельность</XMonsters_UnrealFiringRate.label>
+	<XMonsters_UnrealFiringRate.description>Он так быстро стреляет из этого пистолета, как будто из минигана!</XMonsters_UnrealFiringRate.description>
+
+</LanguageData>

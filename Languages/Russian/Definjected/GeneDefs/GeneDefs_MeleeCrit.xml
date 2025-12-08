@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_TerriblyLowMeleeCrit.label>ужасно низкий шанс критичекого удара</XMonsters_TerriblyLowMeleeCrit.label>
+	<XMonsters_TerriblyLowMeleeCrit.description>Носители гена практически не наносят критические удары или делают это крайне редко. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_TerriblyLowMeleeCrit.description>
+	
+	<XMonsters_VeryLowMeleeCrit.label>очень низкий шанс критичекого удара</XMonsters_VeryLowMeleeCrit.label>
+	<XMonsters_VeryLowMeleeCrit.description>У носителей гена очень низкий шанс нанести критический удар. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_VeryLowMeleeCrit.description>
+	
+	<XMonsters_LowMeleeCrit.label>низкий шанс критичекого удара</XMonsters_LowMeleeCrit.label>
+	<XMonsters_LowMeleeCrit.description>У носителей гена низкий шанс нанести критический удар. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_LowMeleeCrit.description>
+	
+	<XMonsters_HighMeleeCrit.label>высокий шанс критичекого удара</XMonsters_HighMeleeCrit.label>
+	<XMonsters_HighMeleeCrit.description>У носителей гена высокий шанс нанести критический удар. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_HighMeleeCrit.description>
+	
+	<XMonsters_VeryHighMeleeCrit.label>очень высокий шанс критичекого удара</XMonsters_VeryHighMeleeCrit.label>
+	<XMonsters_VeryHighMeleeCrit.description>У носителей гена очень высокий шанс нанести критический удар. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_VeryHighMeleeCrit.description>
+	
+	<XMonsters_DevastatinglyHighMeleeCrit.label>разрушительно высокий шанс критичекого удара</XMonsters_DevastatinglyHighMeleeCrit.label>
+	<XMonsters_DevastatinglyHighMeleeCrit.description>Тот случай, когда надо лишний раз избегать ближний бой. \nНо кому? \nЭто уже отдельный вопрос. \n\n&lt;color=#e5e500&gt;Примечание:&lt;/color&gt; \n\nЭтот ген работает только в том случае, если у вас будет установлен мод &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt;.</XMonsters_DevastatinglyHighMeleeCrit.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_AwfulFiringRate.label>awful firing rate</XMonsters_AwfulFiringRate.label>
+	<XMonsters_AwfulFiringRate.description>It has ALMOST no rate of fire.</XMonsters_AwfulFiringRate.description>
+	
+	<XMonsters_VeryLowFiringRate.label>very low firing rate</XMonsters_VeryLowFiringRate.label>
+	<XMonsters_VeryLowFiringRate.description>The carriers of the gene has a very low rate of fire.</XMonsters_VeryLowFiringRate.description>
+	
+	<XMonsters_LowFiringRate.label>low firing rate</XMonsters_LowFiringRate.label>
+	<XMonsters_LowFiringRate.description>The carriers of the gene has a low rate of fire.</XMonsters_LowFiringRate.description>
+	
+	<XMonsters_HighFiringRate.label>high firing rate</XMonsters_HighFiringRate.label>
+	<XMonsters_HighFiringRate.description>The carriers of the gene has a high rate of fire.</XMonsters_HighFiringRate.description>
+	
+	<XMonsters_VeryHighFiringRate.label>very high firing rate</XMonsters_VeryHighFiringRate.label>
+	<XMonsters_VeryHighFiringRate.description>The carriers of the gene has a very high rate of fire.</XMonsters_VeryHighFiringRate.description>
+	
+	<XMonsters_UnrealFiringRate.label>unreal firing rate</XMonsters_UnrealFiringRate.label>
+	<XMonsters_UnrealFiringRate.description>He shoots that gun so fast it's like a minigun!</XMonsters_UnrealFiringRate.description>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_SlightlyFastReload.label>reload speed - slightly fast</XMonsters_SlightlyFastReload.label>
+	<XMonsters_SlightlyFastReload.description>Carriers of this gene reload any weapon slightly faster.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_SlightlyFastReload.description>
+	
+	<XMonsters_FastReload.label>reload speed - fast</XMonsters_FastReload.label>
+	<XMonsters_FastReload.description>Carriers of this gene fast reload any weapon.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_FastReload.description>
+	
+	<XMonsters_VeryFastReload.label>reload speed - very fast</XMonsters_VeryFastReload.label>
+	<XMonsters_VeryFastReload.description>Carriers of this gene very fast reload any weapon.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_VeryFastReload.description>
+	
+	<XMonsters_SuperFastReload.label>reload speed - super fast</XMonsters_SuperFastReload.label>
+	<XMonsters_SuperFastReload.description>Carriers of this gene can reload any weapon almost instantly.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_SuperFastReload.description>
+	
+	<XMonsters_UnrealFastReload.label>reload speed - unreal fast</XMonsters_UnrealFastReload.label>
+	<XMonsters_UnrealFastReload.description>Before you can blink, he'll have reloaded that revolver.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</XMonsters_UnrealFastReload.description>
+	
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_StrongMeleeDamage.label>melee damage - strong</XMonsters_StrongMeleeDamage.label>
+	<XMonsters_StrongMeleeDamage.description>Gene carriers inflict strong damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</XMonsters_StrongMeleeDamage.description>
+	
+	<XMonsters_VeryStrongMeleeDamage.label>melee damage - very strong</XMonsters_VeryStrongMeleeDamage.label>
+	<XMonsters_VeryStrongMeleeDamage.description>Gene carriers inflict very strong damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</XMonsters_VeryStrongMeleeDamage.description>
+	
+	<XMonsters_StrongestMeleeDamage.label>melee damage - strongest</XMonsters_StrongestMeleeDamage.label>
+	<XMonsters_StrongestMeleeDamage.description>Gene carriers inflict strongest damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</XMonsters_StrongestMeleeDamage.description>
+	
+	<XMonsters_DevastatingMeleeDamage.label>melee damage - devastating</XMonsters_DevastatingMeleeDamage.label>
+	<XMonsters_DevastatingMeleeDamage.description>Gene carriers inflict devastating damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</XMonsters_DevastatingMeleeDamage.description>
+	
+	<XMonsters_DeadlyMeleeDamage.label>melee damage - deadly</XMonsters_DeadlyMeleeDamage.label>
+	<XMonsters_DeadlyMeleeDamage.description>Gene carriers inflict deadly damage in melee combat. It won't be a pleasant experience if they end up as your enemy. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</XMonsters_DeadlyMeleeDamage.description>
+	
+</LanguageData>

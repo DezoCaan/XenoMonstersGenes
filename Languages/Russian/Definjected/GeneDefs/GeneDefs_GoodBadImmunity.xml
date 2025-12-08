@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_SuperWeakestImmunity.label>супер слабейший иммунитет</XMonsters_SuperWeakestImmunity.label>
+	<XMonsters_SuperWeakestImmunity.description>Лишь бы заразу или заражение не подхватить.</XMonsters_SuperWeakestImmunity.description>
+	
+	<XMonsters_WeakestImmunity.label>слабейший иммунитет</XMonsters_WeakestImmunity.label>
+	<XMonsters_WeakestImmunity.description>С таким иммунитетом будет очень сложно жить.</XMonsters_WeakestImmunity.description>
+	
+	<XMonsters_VeryWeakImmunity.label>очень слабый иммунитет</XMonsters_VeryWeakImmunity.label>
+	<XMonsters_VeryWeakImmunity.description>С таким иммунитетом будет непросто жить.</XMonsters_VeryWeakImmunity.description>
+	
+	<XMonsters_StrongImmunity.label>бесплатный сильный иммунитет</XMonsters_StrongImmunity.label>
+	<XMonsters_StrongImmunity.description>Бесплатный аналог существующего &lt;color=#66c6cc&gt;ванильного гена&lt;/color&gt;, который вдобавок в какой-то степени и превосходит его.</XMonsters_StrongImmunity.description>
+	
+	<XMonsters_SuperImmunity.label>дешёвый сверхиммунитет</XMonsters_SuperImmunity.label>
+	<XMonsters_SuperImmunity.description>Дешёвый аналог существующего &lt;color=#66c6cc&gt;ванильного гена&lt;/color&gt;.</XMonsters_SuperImmunity.description>
+	
+	<XMonsters_SuperStrongImmunity.label>сильный сверхиммунитет</XMonsters_SuperStrongImmunity.label>
+	<XMonsters_SuperStrongImmunity.description>Иммунитет, с которым ни одна болезнь ПОЧТИ не страшна.</XMonsters_SuperStrongImmunity.description>
+	
+	<XMonsters_PerfectImmunity.label>не архитный превосходный иммунитет</XMonsters_PerfectImmunity.label>
+	<XMonsters_PerfectImmunity.description>Не архитный аналог &lt;color=#e5e500&gt;Превосходного иммунитета&lt;/color&gt;.</XMonsters_PerfectImmunity.description>
+	
+</LanguageData>

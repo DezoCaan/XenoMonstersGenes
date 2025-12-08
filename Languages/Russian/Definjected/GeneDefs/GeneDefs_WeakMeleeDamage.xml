@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_MinorMeleeDamage.label>урон в ближнем бою - незначительный</XMonsters_MinorMeleeDamage.label>
+	<XMonsters_MinorMeleeDamage.description>Носитель гена наносит незначительный, либо и вовсе никакущий урон в ближнем бою.</XMonsters_MinorMeleeDamage.description>
+	
+	<XMonsters_AwfulMeleeDamage.label>урон в ближнем бою - ужасный</XMonsters_AwfulMeleeDamage.label>
+	<XMonsters_AwfulMeleeDamage.description>Носитель гена наносит ужасный урон в ближнем бою.</XMonsters_AwfulMeleeDamage.description>
+	
+	<XMonsters_WeakestMeleeDamage.label>урон в ближнем бою - слабейший</XMonsters_WeakestMeleeDamage.label>
+	<XMonsters_WeakestMeleeDamage.description>Носитель гена наносит слабейший урон в ближнем бою.</XMonsters_WeakestMeleeDamage.description>
+	
+	<XMonsters_VeryWeakMeleeDamage.label>урон в ближнем бою - очень слабый</XMonsters_VeryWeakMeleeDamage.label>
+	<XMonsters_VeryWeakMeleeDamage.description>Носитель гена наносит очень слабый урон в ближнем бою.</XMonsters_VeryWeakMeleeDamage.description>
+	
+	<XMonsters_WeakMeleeDamage.label>урон в ближнем бою - слабый</XMonsters_WeakMeleeDamage.label>
+	<XMonsters_WeakMeleeDamage.description>Носитель гена наносит слабый урон в ближнем бою.</XMonsters_WeakMeleeDamage.description>
+	
+</LanguageData>

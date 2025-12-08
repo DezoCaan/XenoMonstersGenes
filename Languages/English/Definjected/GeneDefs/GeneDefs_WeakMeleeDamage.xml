@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<XMonsters_MinorMeleeDamage.label>melee damage - minor</XMonsters_MinorMeleeDamage.label>
+	<XMonsters_MinorMeleeDamage.description>The carrier of the gene deals little or no damage in melee combat.</XMonsters_MinorMeleeDamage.description>
+	
+	<XMonsters_AwfulMeleeDamage.label>melee damage - awful</XMonsters_AwfulMeleeDamage.label>
+	<XMonsters_AwfulMeleeDamage.description>The gene carrier deals awful damage in melee combat.</XMonsters_AwfulMeleeDamage.description>
+	
+	<XMonsters_WeakestMeleeDamage.label>melee damage - weakest</XMonsters_WeakestMeleeDamage.label>
+	<XMonsters_WeakestMeleeDamage.description>The gene carrier deals weakest damage in melee combat.</XMonsters_WeakestMeleeDamage.description>
+	
+	<XMonsters_VeryWeakMeleeDamage.label>melee damage - very weak</XMonsters_VeryWeakMeleeDamage.label>
+	<XMonsters_VeryWeakMeleeDamage.description>The gene carrier deals very weak damage in melee combat.</XMonsters_VeryWeakMeleeDamage.description>
+	
+	<XMonsters_WeakMeleeDamage.label>melee damage - weak</XMonsters_WeakMeleeDamage.label>
+	<XMonsters_WeakMeleeDamage.description>The gene carrier deals weak damage in melee combat.</XMonsters_WeakMeleeDamage.description>
+	
+</LanguageData>
