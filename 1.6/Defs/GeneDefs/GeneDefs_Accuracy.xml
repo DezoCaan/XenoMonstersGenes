@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneAccuracy" Abstract="True">
+		<displayCategory>XMonsters_RangedCombat</displayCategory>
+		<exclusionTags>
+			<li>XMonsters_Accuracy</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneAccuracy">
+		<defName>XMonsters_MediocreAccuracy</defName>
+		<label>mediocre shooting accuracy</label>
+		<labelShortAdj>mediocre shooting accuracy</labelShortAdj>
+		<description>Carriers of this gene have mediocre accuracy.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/GoodBadAccuracy/XMonsters_BadAccuracy3</iconPath>
+		<displayOrderInCategory>21</displayOrderInCategory>
+		<statOffsets>
+			<AimingAccuracy MayRequire="CETeam.CombatExtended">-3</AimingAccuracy>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>mediocreaccuracy</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneAccuracy">
+		<defName>XMonsters_AwfulAccuracy</defName>
+		<label>awful shooting accuracy</label>
+		<labelShortAdj>awful shooting accuracy</labelShortAdj>
+		<description>Carriers of this gene have awful accuracy.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/GoodBadAccuracy/XMonsters_BadAccuracy2</iconPath>
+		<displayOrderInCategory>22</displayOrderInCategory>
+		<statOffsets>
+			<AimingAccuracy MayRequire="CETeam.CombatExtended">-2</AimingAccuracy>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>awfulaccuracy</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneAccuracy">
+		<defName>XMonsters_BadAccuracy</defName>
+		<label>bad shooting accuracy</label>
+		<labelShortAdj>bad shooting accuracy</labelShortAdj>
+		<description>Carriers of this gene have bad accuracy.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/GoodBadAccuracy/XMonsters_BadAccuracy1</iconPath>
+		<displayOrderInCategory>23</displayOrderInCategory>
+		<statOffsets>
+			<AimingAccuracy MayRequire="CETeam.CombatExtended">-1</AimingAccuracy>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>badaccuracy</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneAccuracy">
+		<defName>XMonsters_NoBadAccuracy</defName>
+		<label>no bad shooting accuracy</label>
+		<labelShortAdj>no bad shooting accuracy</labelShortAdj>
+		<description>Carriers of this gene have no bad accuracy.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/GoodBadAccuracy/XMonsters_GoodAccuracy1</iconPath>
+		<displayOrderInCategory>24</displayOrderInCategory>
+		<marketValueFactor>1.25</marketValueFactor>
+		<statOffsets>
+			<AimingAccuracy MayRequire="CETeam.CombatExtended">1</AimingAccuracy>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>boltactionrifle</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneAccuracy">
+		<defName>XMonsters_ExcellentAccuracy</defName>
+		<label>excellent shooting accuracy</label>
+		<labelShortAdj>excellent shooting accuracy</labelShortAdj>
+		<description>Every professional has his own secrets.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/GoodBadAccuracy/XMonsters_GoodAccuracy2</iconPath>
+		<displayOrderInCategory>25</displayOrderInCategory>
+		<marketValueFactor>1.5</marketValueFactor>
+		<statOffsets>
+			<AimingAccuracy MayRequire="CETeam.CombatExtended">2</AimingAccuracy>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>sniperrifle</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneAccuracy">
+		<defName>XMonsters_ProfessionalAccuracy</defName>
+		<label>professional shooting accuracy</label>
+		<labelShortAdj>professional shooting accuracy</labelShortAdj>
+		<description>Boom! Headshot.\n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt;\n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/GoodBadAccuracy/XMonsters_GoodAccuracy3</iconPath>
+		<displayOrderInCategory>26</displayOrderInCategory>
+		<marketValueFactor>2</marketValueFactor>
+		<statOffsets>
+			<AimingAccuracy MayRequire="CETeam.CombatExtended">3</AimingAccuracy>
+		</statOffsets>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>antimaterialrifle</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+</Defs>

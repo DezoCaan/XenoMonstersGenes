@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+		<GeneDef>
+		<defName>XMonsters_SteelLiver</defName>
+		<label>steel liver</label>
+		<labelShortAdj>steel liver</labelShortAdj>
+		<description>This gene just exists.</description>
+		<iconPath>UI/Icons/Genes/XMonsters_SteelLiver</iconPath>
+		<displayCategory>XMonsters_Health</displayCategory>
+		<displayOrderInCategory>13</displayOrderInCategory>
+		<makeImmuneTo>
+			<li>Cirrhosis</li>
+		</makeImmuneTo>
+		<biostatCpx>1</biostatCpx>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>steelliver</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<exclusionTags>
+			<li>XMonsters_EfficientLiver</li>
+		</exclusionTags>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+</Defs>

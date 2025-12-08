@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneFiringRate" Abstract="True">
+		<displayCategory>XMonsters_RangedCombat</displayCategory>
+		<exclusionTags>
+			<li>XMonsters_FiringRate</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneFiringRate">
+		<defName>XMonsters_AwfulFiringRate</defName>
+		<label>awful firing rate</label>
+		<labelShortAdj>awful firing rate</labelShortAdj>
+		<description>It has ALMOST no rate of fire.</description>
+		<iconPath>UI/Icons/Genes/HighLowRPS/XMonsters_LowRPS3</iconPath>
+		<displayOrderInCategory>27</displayOrderInCategory>
+		<statFactors>
+			<RangedCooldownFactor>2</RangedCooldownFactor>
+		</statFactors>
+		<statOffsets>
+			<AimingDelayFactor>1</AimingDelayFactor>
+		</statOffsets>
+		<suppressedTraits>
+			<li>
+				<def>ShootingAccuracy</def>
+				<degree>1</degree>
+			</li>
+		</suppressedTraits>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>awfulfiringrate</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneFiringRate">
+		<defName>XMonsters_VeryLowFiringRate</defName>
+		<label>very low firing rate</label>
+		<labelShortAdj>very low firing rate</labelShortAdj>
+		<description>The carrier of the gene has a very low rate of fire.</description>
+		<iconPath>UI/Icons/Genes/HighLowRPS/XMonsters_LowRPS2</iconPath>
+		<displayOrderInCategory>28</displayOrderInCategory>
+		<statFactors>
+			<RangedCooldownFactor>1.5</RangedCooldownFactor>
+		</statFactors>
+		<statOffsets>
+			<AimingDelayFactor>0.5</AimingDelayFactor>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>verylowfiringrate</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneFiringRate">
+		<defName>XMonsters_LowFiringRate</defName>
+		<label>low firing rate</label>
+		<labelShortAdj>low firing rate</labelShortAdj>
+		<description>The carrier of the gene has a low rate of fire.</description>
+		<iconPath>UI/Icons/Genes/HighLowRPS/XMonsters_LowRPS1</iconPath>
+		<displayOrderInCategory>29</displayOrderInCategory>
+		<statFactors>
+			<RangedCooldownFactor>1.25</RangedCooldownFactor>
+		</statFactors>
+		<statOffsets>
+			<AimingDelayFactor>0.25</AimingDelayFactor>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>lowfiringrate</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneFiringRate">
+		<defName>XMonsters_HighFiringRate</defName>
+		<label>high firing rate</label>
+		<labelShortAdj>high firing rate</labelShortAdj>
+		<description>The carrier of the gene has a high rate of fire.</description>
+		<iconPath>UI/Icons/Genes/HighLowRPS/XMonsters_HighRPS1</iconPath>
+		<displayOrderInCategory>30</displayOrderInCategory>
+		<marketValueFactor>1.25</marketValueFactor>
+		<statFactors>
+			<RangedCooldownFactor>0.8</RangedCooldownFactor>
+		</statFactors>
+		<statOffsets>
+			<AimingDelayFactor>-0.25</AimingDelayFactor>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>autopistol</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneFiringRate">
+		<defName>XMonsters_VeryHighFiringRate</defName>
+		<label>very high firing rate</label>
+		<labelShortAdj>very high firing rate</labelShortAdj>
+		<description>The carrier of the gene has a very high rate of fire.</description>
+		<iconPath>UI/Icons/Genes/HighLowRPS/XMonsters_HighRPS2</iconPath>
+		<displayOrderInCategory>31</displayOrderInCategory>
+		<marketValueFactor>1.5</marketValueFactor>
+		<statFactors>
+			<RangedCooldownFactor>0.4</RangedCooldownFactor>
+		</statFactors>
+		<statOffsets>
+			<AimingDelayFactor>-0.5</AimingDelayFactor>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>assaultrifle</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneFiringRate">
+		<defName>XMonsters_UnrealFiringRate</defName>
+		<label>unreal firing rate</label>
+		<labelShortAdj>unreal firing rate</labelShortAdj>
+		<description>He shoots that gun so fast it's like a minigun!</description>
+		<iconPath>UI/Icons/Genes/HighLowRPS/XMonsters_HighRPS3</iconPath>
+		<displayOrderInCategory>32</displayOrderInCategory>
+		<marketValueFactor>2</marketValueFactor>
+		<statFactors>
+			<RangedCooldownFactor>0.2</RangedCooldownFactor>
+		</statFactors>
+		<statOffsets>
+			<AimingDelayFactor>-1</AimingDelayFactor>
+		</statOffsets>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>minigun</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+</Defs>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneWeakMeleeDamage" Abstract="True">
+		<displayCategory>XMonsters_MeleeCombat</displayCategory>
+		<exclusionTags>
+			<li>XMonsters_MeleeDamage</li>
+			<li>MeleeDamage</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneWeakMeleeDamage">
+		<defName>XMonsters_MinorMeleeDamage</defName>
+		<label>melee damage - minor</label>
+		<labelShortAdj>melee damage - minor</labelShortAdj>
+		<description>The carrier of the gene deals little or no damage in melee combat.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_WeakMeleeDamage5</iconPath>
+		<displayOrderInCategory>1</displayOrderInCategory>
+		<statFactors>
+			<MeleeDamageFactor>0.0</MeleeDamageFactor>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>5</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>minordamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneWeakMeleeDamage">
+		<defName>XMonsters_AwfulMeleeDamage</defName>
+		<label>melee damage - awful</label>
+		<labelShortAdj>melee damage - awful</labelShortAdj>
+		<description>The gene carrier deals awful damage in melee combat.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_WeakMeleeDamage4</iconPath>
+		<displayOrderInCategory>2</displayOrderInCategory>
+		<statFactors>
+			<MeleeDamageFactor>0.2</MeleeDamageFactor>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>4</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>awfuldamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneWeakMeleeDamage">
+		<defName>XMonsters_WeakestMeleeDamage</defName>
+		<label>melee damage - weakest</label>
+		<labelShortAdj>melee damage - weakest</labelShortAdj>
+		<description>The gene carrier deals weakest damage in melee combat.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_WeakMeleeDamage3</iconPath>
+		<displayOrderInCategory>3</displayOrderInCategory>
+		<statFactors>
+			<MeleeDamageFactor>0.4</MeleeDamageFactor>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>weakestdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneWeakMeleeDamage">
+		<defName>XMonsters_VeryWeakMeleeDamage</defName>
+		<label>melee damage - very weak</label>
+		<labelShortAdj>melee damage - very weak</labelShortAdj>
+		<description>The gene carrier deals very weak damage in melee combat.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_WeakMeleeDamage2</iconPath>
+		<displayOrderInCategory>4</displayOrderInCategory>
+		<statFactors>
+			<MeleeDamageFactor>0.6</MeleeDamageFactor>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>veryweakdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneWeakMeleeDamage">
+		<defName>XMonsters_WeakMeleeDamage</defName>
+		<label>melee damage - weak</label>
+		<labelShortAdj>melee damage - weak</labelShortAdj>
+		<description>The gene carrier deals weak damage in melee combat.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_WeakMeleeDamage1</iconPath>
+		<displayOrderInCategory>5</displayOrderInCategory>
+		<statFactors>
+			<MeleeDamageFactor>0.8</MeleeDamageFactor>
+		</statFactors>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>weakdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+</Defs>

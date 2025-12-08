@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneStrongMeleeDamage" Abstract="True">
+		<displayCategory>XMonsters_MeleeCombat</displayCategory>
+		<exclusionTags>
+			<li>XMonsters_VanillaMeleeDamage</li>
+			<li>XMonsters_MeleeDamage</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneStrongMeleeDamage">
+		<defName>XMonsters_StrongMeleeDamage</defName>
+		<label>melee damage - strong</label>
+		<labelShortAdj>melee damage - strong</labelShortAdj>
+		<description>Gene carriers inflict strong damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_StrongMeleeDamage1</iconPath>
+		<displayOrderInCategory>6</displayOrderInCategory>
+		<marketValueFactor>1.2</marketValueFactor>
+		<statOffsets>
+			<MeleeDamageFactor>0.5</MeleeDamageFactor>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>strongdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneStrongMeleeDamage">
+		<defName>XMonsters_VeryStrongMeleeDamage</defName>
+		<label>melee damage - very strong</label>
+		<labelShortAdj>melee damage - very strong</labelShortAdj>
+		<description>Gene carriers inflict very strong damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_StrongMeleeDamage2</iconPath>
+		<displayOrderInCategory>7</displayOrderInCategory>
+		<marketValueFactor>1.4</marketValueFactor>
+		<statOffsets>
+			<MeleeDamageFactor>0.75</MeleeDamageFactor>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>verystrongdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneStrongMeleeDamage">
+		<defName>XMonsters_StrongestMeleeDamage</defName>
+		<label>melee damage - strongest</label>
+		<labelShortAdj>melee damage - strongest</labelShortAdj>
+		<description>Gene carriers inflict strongest damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_StrongMeleeDamage3</iconPath>
+		<displayOrderInCategory>8</displayOrderInCategory>
+		<marketValueFactor>1.6</marketValueFactor>
+		<statOffsets>
+			<MeleeDamageFactor>1.25</MeleeDamageFactor>
+		</statOffsets>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>strongestdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneStrongMeleeDamage">
+		<defName>XMonsters_DevastatingMeleeDamage</defName>
+		<label>melee damage - devastating</label>
+		<labelShortAdj>melee damage - devastating</labelShortAdj>
+		<description>Gene carriers inflict devastating damage in melee combat. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_StrongMeleeDamage4</iconPath>
+		<displayOrderInCategory>9</displayOrderInCategory>
+		<marketValueFactor>1.8</marketValueFactor>
+		<statOffsets>
+			<MeleeDamageFactor>1.50</MeleeDamageFactor>
+		</statOffsets>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>devastatingdamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneStrongMeleeDamage">
+		<defName>XMonsters_DeadlyMeleeDamage</defName>
+		<label>melee damage - deadly</label>
+		<labelShortAdj>melee damage - deadly</labelShortAdj>
+		<description>Gene carriers inflict deadly damage in melee combat. It won't be a pleasant experience if they end up as your enemy. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene can also serve as a complement to the &lt;color=#66c6cc&gt;vanilla gene&lt;/color&gt;: &lt;color=#4c994c&gt;Strong melee damage&lt;/color&gt;.</description>
+		<iconPath>UI/Icons/Genes/MeleeDamage/XMonsters_StrongMeleeDamage5</iconPath>
+		<displayOrderInCategory>10</displayOrderInCategory>
+		<marketValueFactor>2</marketValueFactor>
+		<statOffsets>
+			<MeleeDamageFactor>1.75</MeleeDamageFactor>
+		</statOffsets>
+		<biostatCpx>4</biostatCpx>
+		<biostatMet>-4</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>deadlydamage</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+</Defs>

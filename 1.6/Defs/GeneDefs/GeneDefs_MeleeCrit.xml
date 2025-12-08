@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+	<GeneDef Name="XMonsters_GeneMeleeCrit" Abstract="True">
+		<displayCategory>XMonsters_MeleeCombat</displayCategory>
+		<exclusionTags>
+			<li>XMonsters_MeleeCrit</li>
+		</exclusionTags>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneMeleeCrit">
+		<defName>XMonsters_TerriblyLowMeleeCrit</defName>
+		<label>terribly low critical hit chance</label>
+		<labelShortAdj>terribly low critical hit chance</labelShortAdj>
+		<description>Carriers of the gene never or rarely deal critical hits. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/MeleeCrit/XMonsters_BadMeleeCrit3</iconPath>
+		<displayOrderInCategory>21</displayOrderInCategory>
+		<statOffsets>
+			<MeleeCritChance MayRequire="CETeam.CombatExtended">-1</MeleeCritChance>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>terriblylowcrit</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneMeleeCrit">
+		<defName>XMonsters_VeryLowMeleeCrit</defName>
+		<label>very low critical hit chance</label>
+		<labelShortAdj>very low critical hit chance</labelShortAdj>
+		<description>Carriers of the gene have a very low chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/MeleeCrit/XMonsters_BadMeleeCrit2</iconPath>
+		<displayOrderInCategory>22</displayOrderInCategory>
+		<statOffsets>
+			<MeleeCritChance MayRequire="CETeam.CombatExtended">-0.5</MeleeCritChance>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>verylowcrit</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneMeleeCrit">
+		<defName>XMonsters_LowMeleeCrit</defName>
+		<label>low critical hit chance</label>
+		<labelShortAdj>low critical hit chance</labelShortAdj>
+		<description>Carriers of the gene have a low chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/MeleeCrit/XMonsters_BadMeleeCrit1</iconPath>
+		<displayOrderInCategory>23</displayOrderInCategory>
+		<statOffsets>
+			<MeleeCritChance MayRequire="CETeam.CombatExtended">-0.25</MeleeCritChance>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>lowcrit</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneMeleeCrit">
+		<defName>XMonsters_HighMeleeCrit</defName>
+		<label>high critical hit chance</label>
+		<labelShortAdj>high critical hit chance</labelShortAdj>
+		<description>Carriers of the gene have a high chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/MeleeCrit/XMonsters_GoodMeleeCrit1</iconPath>
+		<displayOrderInCategory>24</displayOrderInCategory>
+		<marketValueFactor>1.25</marketValueFactor>
+		<statOffsets>
+			<MeleeCritChance MayRequire="CETeam.CombatExtended">1</MeleeCritChance>
+		</statOffsets>
+		<biostatCpx>1</biostatCpx>
+		<biostatMet>-1</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>highcrit</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneMeleeCrit">
+		<defName>XMonsters_VeryHighMeleeCrit</defName>
+		<label>very high critical hit chance</label>
+		<labelShortAdj>very high critical hit chance</labelShortAdj>
+		<description>Carriers of the gene have a very high chance of deal critical hit. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/MeleeCrit/XMonsters_GoodMeleeCrit2</iconPath>
+		<displayOrderInCategory>25</displayOrderInCategory>
+		<marketValueFactor>1.5</marketValueFactor>
+		<statOffsets>
+			<MeleeCritChance MayRequire="CETeam.CombatExtended">2</MeleeCritChance>
+		</statOffsets>
+		<biostatCpx>2</biostatCpx>
+		<biostatMet>-2</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>veryhighcrit</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+	
+	<GeneDef ParentName="XMonsters_GeneMeleeCrit">
+		<defName>XMonsters_DevastatinglyHighMeleeCrit</defName>
+		<label>devastatingly high critical hit chance</label>
+		<labelShortAdj>devastatingly high critical hit chance</labelShortAdj>
+		<description>This is a case where should avoid melee combat unnecessarily. \nBut who should? \nThat's a whole other question. \n\n&lt;color=#e5e500&gt;Note:&lt;/color&gt; \n\nThis gene only works if you have the &lt;color=#b29c2c&gt;Combat&lt;/color&gt; &lt;color=#4e591a&gt;Extended&lt;/color&gt; mod installed.</description>
+		<iconPath>UI/Icons/Genes/MeleeCrit/XMonsters_GoodMeleeCrit3</iconPath>
+		<displayOrderInCategory>26</displayOrderInCategory>
+		<marketValueFactor>2</marketValueFactor>
+		<statOffsets>
+			<MeleeCritChance MayRequire="CETeam.CombatExtended">3</MeleeCritChance>
+		</statOffsets>
+		<biostatCpx>3</biostatCpx>
+		<biostatMet>-3</biostatMet>
+		<symbolPack>
+			<prefixSymbols>
+				<li>
+					<symbol>devastatinglyhighcrit</symbol>
+				</li>
+			</prefixSymbols>
+		</symbolPack>
+		<modExtensions>
+			<li Class="VEF.Genes.GeneExtension">
+				<backgroundPathEndogenes>UI/Icons/Genes/XMonsters_Endogene</backgroundPathEndogenes>
+				<backgroundPathXenogenes>UI/Icons/Genes/XMonsters_Xenogene</backgroundPathXenogenes>
+			</li>
+		</modExtensions>
+	</GeneDef>
+
+</Defs>
